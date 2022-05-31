@@ -1,0 +1,66 @@
+div {
+  background-color: Moccasin;
+  padding-color: PapayaWhip;
+  margin: auto;
+  width: 90%;
+  border: 3px solid brown;
+  padding: 10px;
+}
+
+.subtitle {
+  text-align: center;
+}
+
+.About {
+padding-color: PapayaWhip;
+margin: auto;
+text-indent: 50px;
+}
+
+.videoSkit {
+  padding-color: PapayaWhip;
+  margin: auto;
+    text-indent: 50px;
+}
+
+.Title {
+font-family: Abril Fatface;
+color: SaddleBrown;
+margin: auto;
+text-align: center;
+}
+
+.testimonials {
+  padding-color: PapayaWhip;
+  margin: auto;
+    text-indent: 50px;
+}
+
+.coolTables {
+padding-color: PapayaWhip;
+font-family: Abril Fatface;
+color: SaddleBrown;
+margin: auto;
+text-align: center;
+}
+
+h2 {
+    background-color: PapayaWhip;
+font-family: Abril Fatface;
+color: SaddleBrown;
+margin: auto;
+  width: 90%;
+  border: 3px solid brown;
+  padding: 10px;
+  text-indent: -50px;
+  text-align: center;
+}
+
+h3 {
+  padding-color: PapayaWhip;
+  margin: 0 auto;
+}
+
+p {
+  text-align: center;
+}
